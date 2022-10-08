@@ -1,0 +1,16 @@
+services:
+    app1: 
+        container_name: app1
+        build: ./app1
+        port: 3000:9090
+        depends_on:
+            mongo
+    
+    mongo:
+        container_name: mongo
+        image: mongo
+        port: 27017:8980
+        volumes:
+            host_volume: container_volume
+                
+

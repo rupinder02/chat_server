@@ -1,0 +1,46 @@
+{
+    "user": [
+        {
+            "name": "Abhi",
+            "email": "abhi@gmail.com",
+            "phone": { "countryCode": "+91", "number": "8923441122" },
+            "address": "#12, Sec - 32, Chandigarh"
+        },
+        {
+            "name": "Aman",
+            "email": "aman@gmail.com",
+            "phone": { "countryCode": "+91", "number": "8923441123" },
+            "address": "#11, Sec - 32, Chandigarh"
+        },
+        {
+            "name": "Arjun",
+            "email": "arjun@gmail.com",
+            "phone": { "countryCode": "+91", "number": "8923441121" },
+            "address": "#16, Sec - 32, Chandigarh"
+        },
+        {
+            "name": "Raman",
+            "email": "raman@gmail.com",
+            "phone": { "countryCode": "+91", "number": "8923441189" },
+            "address": "#19, Sec - 32, Chandigarh"
+        },
+        {
+            "name": "Raghav",
+            "email": "raghav@gmail.com",
+            "phone": { "countryCode": "+91", "number": "8923441188" },
+            "address": "#10, Sec - 32, Chandigarh"
+        },
+        {
+            "name": "Sooraj",
+            "email": "sooraj@gmail.com",
+            "phone": { "countryCode": "+91", "number": "8923441199" },
+            "address": "#23, Sec - 32, Chandigarh"
+        },
+        {
+            "name": "Jay",
+            "email": "jay@gmail.com",
+            "phone": { "countryCode": "+91", "number": "8923441178" },
+            "address": "#90, Sec - 32, Chandigarh"
+        }
+    ]
+}

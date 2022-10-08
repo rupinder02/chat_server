@@ -1,0 +1,32 @@
+{
+    "name": "chat_server",
+    "version": "1.0.0",
+    "description": "This is a chat server",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha src/**/*.test.js",
+        "format": "prettier --write ."
+    },
+    "author": "Rupinder Singh",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.20.0",
+        "cors": "^2.8.5",
+        "dotenv": "^16.0.1",
+        "express": "^4.18.1",
+        "joi": "^17.6.2",
+        "mongoose": "^6.5.1",
+        "socket.io": "^4.5.1",
+        "twilio": "^3.80.0",
+        "uuid": "^8.3.2",
+        "winston": "^3.8.2"
+    },
+    "devDependencies": {
+        "@faker-js/faker": "^7.3.0",
+        "chai": "^4.3.6",
+        "faker": "^6.6.6",
+        "mocha": "^10.0.0",
+        "prettier": "^2.7.1",
+        "socket.io-client": "^4.5.1"
+    }
+}

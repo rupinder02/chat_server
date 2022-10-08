@@ -1,0 +1,9 @@
+{
+    "user": {
+        "success": {
+            "statusCode": "200",
+            "Message": "Signup successfull",
+            "data": {}
+        }
+    }
+}
