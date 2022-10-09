@@ -4,7 +4,7 @@
     "description": "This is a chat server",
     "main": "index.js",
     "scripts": {
-        "test": "CI=true mocha src/**/*.test.js --watchAll=false",
+        "test": "mocha src/**/*.test.js --watchAll=false",
         "format": "prettier --write ."
     },
     "author": "Rupinder Singh",
